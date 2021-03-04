@@ -115,7 +115,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #43bff0 !important;
+			color: #070707 !important;
 		}
 
 		a img {
@@ -1697,7 +1697,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #43bff0;
+			background-color: #080808;
 			color: #fff !important;
 		}
 
