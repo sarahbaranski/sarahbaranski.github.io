@@ -2212,6 +2212,11 @@ body > article {
 }
 
 #top {
+  background-image: linear-gradient(rgba(185, 184, 184, 0.541), rgba(255, 255, 255, 0.8)),
+    url("../../images/cityscape.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
   padding: 10em 0 10em 0;
   text-align: left;
 }
